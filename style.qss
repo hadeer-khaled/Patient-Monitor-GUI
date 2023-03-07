@@ -1,0 +1,34 @@
+QMainWindow{
+ background-color:#040303;
+}
+
+QWidget#widget0{
+  border: 2px solid red;
+}
+QLabel#HR_label,QLabel#HR_widget
+{
+  color:  #95CD41; /*  #9FC088  #16FF00;  */
+  font-size: 20px;
+  font-weight:900;
+  /* margin-bottom: 10px; */
+
+  }
+
+QLabel#RR_label,QLabel#RR_widget
+{
+   color:  #FFEE63; /* #FDFF00 */
+  font-weight:900;
+  font-size: 20px;
+  /* margin-bottom: 10px; */
+}
+QLabel#HR_widget , QLabel#RR_widget{
+  font-size: 60px;
+}
+QLabel#ECG_label{
+  font-size: 20px;
+  color: red;
+}
+QPushButton{
+background-color : #FFE6BC;
+/* cursor :pointer; */
+}
