@@ -1,3 +1,3 @@
-# Patient Monitor GUI For Heart Rate, Breath Rete and ECG
+# Patient Monitor GUI For Heart Rate, Breath Rate and ECG
 ![Video](video.gif)
  
